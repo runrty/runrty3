@@ -1,5 +1,9 @@
 #Team-9-Fall2021
 Demographics:
+1. people from nigeria, going to european countries </br> 
+  2. people from european countries going to nigeria </br> 
+  3. europeans who want to learn about nigerian culture and language</br> 
+  4. students/teachers in us and nigeria</br>
 
 Feature:
 1.	The game should allow administrator as teacher or team leader to create a grouping.
